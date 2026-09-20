@@ -5,6 +5,11 @@ Apple-inspired UI design guidance for AI coding agents.
 This is a reusable design skill for building clean, native-feeling interfaces without turning every page into a glassmorphism card grid. It translates Apple Human Interface Guidelines ideas into decisions an AI coding agent can apply: content hierarchy, semantic tokens, adaptive layout, navigation, states, accessibility, restrained materials, and purposeful motion.
 
 > **Apple-inspired, not Apple-made.** This project is independent, uses original guidance, contains no Apple assets or fonts, and is not endorsed by Apple.
+![Dashboard preview](examples/dashboard/preview.svg)
+
+A small, dependency-free [Dashboard Demo](examples/dashboard/index.html) shows the intended direction: fewer metrics, explicit scope, exact values, light/dark tokens, and no decorative glass.
+
+[中文说明](#中文说明) · [安装](#install-and-use) · [示例](examples/README.md)
 
 ## v0.1 focus
 
@@ -171,3 +176,4 @@ $apple-ui-design
 ### 重要边界
 
 本项目是独立的 Apple-inspired 设计 Skill，不代表 Apple，也不包含 Apple Logo、Apple 字体或 Apple 设计资源。使用 SF Symbols、系统字体或 Apple 设计资源时，请自行确认对应平台和许可证要求。
+
